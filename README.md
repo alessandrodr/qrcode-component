@@ -3,7 +3,12 @@
 
 This is a challenge from frontendmentor.io it's purpuse is to develope skills for website design and development.
 
-The qr component, if scanned, will take you to frontendmentor.io.
+The qr component, if scanned, will take you to frontendmentor.io
+
+Live website:
+
+https://meek-pithivier-1c261a.netlify.app
+
 
 Mobile view:
 
